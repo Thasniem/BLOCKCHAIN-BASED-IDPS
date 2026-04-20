@@ -145,3 +145,10 @@ Access the Application
 This project is the intellectual property of the authors. The implementation, design, and documentation are original contributions.
 
 Unauthorized copying, reproduction, or plagiarism of this work without proper citation is strictly prohibited and may lead to academic consequences.
+
+---
+## 🎯 Final Remarks
+
+This project successfully demonstrates the integration of intrusion detection mechanisms with blockchain technology to enhance the security of cloud-based telehealth systems. By combining real-time monitoring, tamper-proof logging, and scalable deployment, the proposed system addresses critical challenges in modern healthcare cybersecurity.
+
+The implementation highlights the practical feasibility of using decentralized technologies to improve trust, transparency, and data integrity in sensitive environments such as telehealth.

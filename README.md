@@ -108,7 +108,6 @@ docker-compose up --build
 | IDS      | Wazuh        |
 | Blockchain | Ethereum (Ganache) |
 
----
 
 🖥 Hardware Requirements
 

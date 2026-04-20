@@ -41,7 +41,17 @@ The proposed system incorporates host-based intrusion detection (Wazuh), blockch
 *   **Tamper-Proof Storage:** High resistance to log alteration.
     
 *   **Real-Time Visualization:** A React-based frontend dashboard for monitoring alerts.
-    
+
+| Criteria              | Existing Methods           | Proposed Method                          |
+|----------------------|--------------------------|------------------------------------------|
+| Log Storage          | Centralized databases     | Blockchain-based immutable storage       |
+| Tamper Resistance    | Low                      | Very High                                |
+| Audit Transparency   | Limited                  | Fully transparent and verifiable         |
+| Insider Protection   | Weak                     | Strong                                   |
+| Scalability          | Limited                  | High (containerized architecture)        |
+| Deployment           | Complex                  | Simplified using Docker                  |
+| Forensic Capability  | Weak                     | Strong and reliable                     |
+   
 
 **3\. System Design & Modules**
 -------------------------------

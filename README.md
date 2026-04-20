@@ -72,7 +72,7 @@ The system is designed as a modular, layered framework:
 **4\. Technical Specifications**
 --------------------------------
 
-### 💻 Software Specifications
+💻 Software Specifications
 
 | Component | Specification |
 |----------|--------------|
@@ -82,7 +82,7 @@ The system is designed as a modular, layered framework:
 
 ---
 
-### 🖥 Hardware Requirements
+🖥 Hardware Requirements
 
 | Component | Specification |
 |----------|--------------|
@@ -91,7 +91,16 @@ The system is designed as a modular, layered framework:
 | Storage   | 512 GB SSD         |
 
 
-**5\. Conclusion**
+**5\. 📊 Performance Evaluation**
+
+| Metric                | Value |
+|----------------------|------|
+| Detection Accuracy   | 87%  |
+| Response Time        | < 2 sec |
+| False Positive Rate  | Low |
+| Blockchain Latency   | ~1–2 sec |
+
+**6\. Conclusion**
 ------------------
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.

@@ -1,5 +1,4 @@
 ### BLOCKCHAIN BASED IDPS FOR SECURING TELEHEALTH IN CLOUD
-======================================================
 
 A project report submitted by **Sri Lakshmi Priya J**, **Thasniem Fathima J**, and **Vishnupriya S** to the Department of Computer Science and Engineering, S.A. Engineering College, Chennai, in partial fulfillment of the requirements for the Final year project in the degree of Bachelor of Engineering.
 
@@ -57,9 +56,9 @@ The system is designed as a modular, layered framework:
 **4\. Technical Specifications**
 --------------------------------
 
-**ComponentSpecificationOperating System**
+**Component Specification Operating System**
 
-Linux (Ubuntu)
+Windows 11
 
 **Intrusion Detection**
 

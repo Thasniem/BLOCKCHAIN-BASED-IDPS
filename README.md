@@ -15,6 +15,12 @@ The increasing adoption of telehealth services has led to extensive use of cloud
 Telehealth technologies rely on cloud computing to manage medical records, including patient information and insurance details. However, centralized cloud architectures are vulnerable to cyberattacks. This project integrates IDPS with blockchain technology to ensure secure, tamper-proof, and transparent storage of security-related data.
 
 ### **1.2 Objectives**
+Decentralize Trust: Move away from single-point-of-failure logging architectures.
+
+Immutable Forensics: Ensure that every security alert is timestamped and anchored to a blockchain.
+
+Real-time Intelligence: Provide a high-fidelity dashboard that bridges the gap between raw security data and actionable insights.
+
 
 **2\. System Analysis**
 -----------------------

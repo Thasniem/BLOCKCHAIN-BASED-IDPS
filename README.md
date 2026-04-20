@@ -8,7 +8,7 @@ A project report submitted by **Sri Lakshmi Priya J**, **Thasniem Fathima J**, a
 The increasing adoption of telehealth services has led to extensive use of cloud-based digital infrastructures. While these technologies enhance efficiency, they expose sensitive medical data to cybersecurity threats like unauthorized access and data leakage. Traditional intrusion detection systems (IDS) rely on centralized logging, which is vulnerable to tampering. This project proposes a **Blockchain-Enabled Intrusion Detection and Prevention System (IDPS)** to improve security, transparency, and reliability in telehealth cloud environments. The system uses **Wazuh** for real-time monitoring and an **Ethereum-compatible blockchain** for secure, immutable audit trails.
 
 --------------------
-### **1\. Introduction**
+## **1\. Introduction**
 
 **1.1 Overview**
 
@@ -23,7 +23,7 @@ Telehealth technologies rely on cloud computing to manage medical records, inclu
 * *Real-time Intelligence*: Provide a high-fidelity dashboard that bridges the gap between raw security data and actionable insights.
 
 -----------------------
-### **2\. System Analysis**
+## **2\. System Analysis**
 
 **2.1 Existing System Challenges**
 
@@ -55,7 +55,7 @@ The proposed system incorporates host-based intrusion detection (Wazuh), blockch
 
 -------------------------------
 
-### **3\. System Design & Modules**
+## **3\. System Design & Modules**
 
 The system is designed as a modular, layered framework:
 
@@ -71,7 +71,7 @@ The system is designed as a modular, layered framework:
 
 --------------------------------
 
-### **4\. Technical Specifications**
+## **4\. Technical Specifications**
 
 Software Specifications
 
@@ -92,7 +92,7 @@ Hardware Requirements
 
 ---
 
-### **5\. Performance Evaluation**
+## **5\. Performance Evaluation**
 
 
 | Metric                | Value |
@@ -104,7 +104,7 @@ Hardware Requirements
 
 ---
 
-### **6\. Conclusion**
+## **6\. Conclusion**
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.
 
@@ -139,7 +139,7 @@ Access the Application
 * Blockchain (Ganache): [http://localhost:8545](http://localhost:8545)
 
 ---
-## Ownership Notice
+###  Ownership Notice
 
 
 This project is the intellectual property of the authors. The implementation, design, and documentation are original contributions.

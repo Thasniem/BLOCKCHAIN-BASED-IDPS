@@ -1,6 +1,6 @@
 Establishing user intent: The user wants the content of the uploaded PDF file ("BLOCKCHAIN IDPS FINALISED REPORT.pdf") converted into a Markdown (.md) format.
 
-### Blockchain-Based IDPS for Securing Telehealth in Cloud
+### BLOCKCHAIN BASED IDPS FOR SECURING TELEHEALTH IN CLOUD
 ======================================================
 
 A project report submitted by **Sri Lakshmi Priya J**, **Thasniem Fathima J**, and **Vishnupriya S** to the Department of Computer Science and Engineering, S.A. Engineering College, Chennai, in partial fulfillment of the requirements for the Final year project in the degree of Bachelor of Engineering.
@@ -92,5 +92,3 @@ Docker / Docker Compose
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.
 
-
-hi

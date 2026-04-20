@@ -16,11 +16,9 @@ Telehealth technologies rely on cloud computing to manage medical records, inclu
 
 **1.2 Objectives**
 
-Decentralize Trust: Move away from single-point-of-failure logging architectures.
-
-Immutable Forensics: Ensure that every security alert is timestamped and anchored to a blockchain.
-
-Real-time Intelligence: Provide a high-fidelity dashboard that bridges the gap between raw security data and actionable insights.
+*Decentralize Trust*: Move away from single-point-of-failure logging architectures.
+*Immutable Forensics*: Ensure that every security alert is timestamped and anchored to a blockchain.
+*Real-time Intelligence*: Provide a high-fidelity dashboard that bridges the gap between raw security data and actionable insights.
 
 -----------------------
 ### **2\. System Analysis**

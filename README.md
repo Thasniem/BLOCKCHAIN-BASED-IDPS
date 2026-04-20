@@ -2,13 +2,13 @@
 
 A project report submitted by **Sri Lakshmi Priya J**, **Thasniem Fathima J**, and **Vishnupriya S** to the Department of Computer Science and Engineering, S.A. Engineering College, Chennai, in partial fulfillment of the requirements for the Final year project in the degree of Bachelor of Engineering.
 
-**Abstract**
 ------------
+**Abstract**
 
 The increasing adoption of telehealth services has led to extensive use of cloud-based digital infrastructures. While these technologies enhance efficiency, they expose sensitive medical data to cybersecurity threats like unauthorized access and data leakage. Traditional intrusion detection systems (IDS) rely on centralized logging, which is vulnerable to tampering. This project proposes a **Blockchain-Enabled Intrusion Detection and Prevention System (IDPS)** to improve security, transparency, and reliability in telehealth cloud environments. The system uses **Wazuh** for real-time monitoring and an **Ethereum-compatible blockchain** for secure, immutable audit trails.
 
-**1\. Introduction**
 --------------------
+**1\. Introduction**
 
 ### **1.1 Overview**
 
@@ -21,9 +21,8 @@ Immutable Forensics: Ensure that every security alert is timestamped and anchore
 
 Real-time Intelligence: Provide a high-fidelity dashboard that bridges the gap between raw security data and actionable insights.
 
-
-**2\. System Analysis**
 -----------------------
+**2\. System Analysis**
 
 ### **2.1 Existing System Challenges**
 
@@ -52,9 +51,8 @@ The proposed system incorporates host-based intrusion detection (Wazuh), blockch
 | Deployment           | Complex                  | Simplified using Docker                  |
 | Forensic Capability  | Weak                     | Strong and reliable                     |
 
-
-**3\. System Design & Modules**
 -------------------------------
+**3\. System Design & Modules**
 
 The system is designed as a modular, layered framework:
 
@@ -97,8 +95,8 @@ Access the Application
 * Blockchain (Ganache): [http://localhost:8545](http://localhost:8545)
 
 
-**4\. Technical Specifications**
 --------------------------------
+**4\. Technical Specifications**
 
 Software Specifications
 
@@ -117,9 +115,9 @@ Hardware Requirements
 | RAM       | 16 GB minimum      |
 | Storage   | 512 GB SSD         |
 
-
+---
 **5\. Performance Evaluation**
-------------------
+
 
 | Metric                | Value |
 |----------------------|------|
@@ -128,8 +126,8 @@ Hardware Requirements
 | False Positive Rate  | Low |
 | Blockchain Latency   | ~1–2 sec |
 
+---
 **6\. Conclusion**
-------------------
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.
 
@@ -139,3 +137,4 @@ The integration of host-based intrusion detection with immutable blockchain logg
 This project is the intellectual property of the authors. The implementation, design, and documentation are original contributions.
 
 Unauthorized copying, reproduction, or plagiarism of this work without proper citation is strictly prohibited and may lead to academic consequences.
+---

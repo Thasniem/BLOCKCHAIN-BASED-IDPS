@@ -67,35 +67,6 @@ The system is designed as a modular, layered framework:
     
 5.  **Frontend Visualization:** Displays attack info, severity levels, and blockchain hashes using React.js.
 
-Clone the Repository
-
-```bash
-git clone https://github.com/Thasniem/BLOCKCHAIN-BASED-IDPS.git
-
-cd IDPS-Blockchain-Project
-```
-Run the Project Using Docker (Recommended)
-
-To start all services (Wazuh, Backend, Blockchain, Frontend), run:
-
-```bash
-docker-compose up --build
-```
-
-What this does:
-
-* Starts Wazuh IDS for intrusion detection
-* Launches Ganache blockchain network
-* Runs Flask backend API
-* Starts React frontend dashboard
-
-Access the Application
-
-* Frontend Dashboard: [http://localhost:3000](http://localhost:3000)
-* Backend API: [http://localhost:5000](http://localhost:5000)
-* Blockchain (Ganache): [http://localhost:8545](http://localhost:8545)
-
-
 --------------------------------
 ### **4\. Technical Specifications**
 
@@ -131,6 +102,36 @@ Hardware Requirements
 ### **6\. Conclusion**
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.
+
+---
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Thasniem/BLOCKCHAIN-BASED-IDPS.git
+
+cd IDPS-Blockchain-Project
+```
+Run the Project Using Docker (Recommended)
+
+To start all services (Wazuh, Backend, Blockchain, Frontend), run:
+
+```bash
+docker-compose up --build
+```
+
+What this does:
+
+* Starts Wazuh IDS for intrusion detection
+* Launches Ganache blockchain network
+* Runs Flask backend API
+* Starts React frontend dashboard
+
+Access the Application
+
+* Frontend Dashboard: [http://localhost:3000](http://localhost:3000)
+* Backend API: [http://localhost:5000](http://localhost:5000)
+* Blockchain (Ganache): [http://localhost:8545](http://localhost:8545)
 
 ---
 ## Ownership Notice

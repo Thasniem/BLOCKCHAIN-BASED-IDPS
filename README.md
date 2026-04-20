@@ -8,13 +8,13 @@ A project report submitted by **Sri Lakshmi Priya J**, **Thasniem Fathima J**, a
 The increasing adoption of telehealth services has led to extensive use of cloud-based digital infrastructures. While these technologies enhance efficiency, they expose sensitive medical data to cybersecurity threats like unauthorized access and data leakage. Traditional intrusion detection systems (IDS) rely on centralized logging, which is vulnerable to tampering. This project proposes a **Blockchain-Enabled Intrusion Detection and Prevention System (IDPS)** to improve security, transparency, and reliability in telehealth cloud environments. The system uses **Wazuh** for real-time monitoring and an **Ethereum-compatible blockchain** for secure, immutable audit trails.
 
 --------------------
-**1\. Introduction**
+### **1\. Introduction**
 
-### **1.1 Overview**
+**1.1 Overview**
 
 Telehealth technologies rely on cloud computing to manage medical records, including patient information and insurance details. However, centralized cloud architectures are vulnerable to cyberattacks. This project integrates IDPS with blockchain technology to ensure secure, tamper-proof, and transparent storage of security-related data.
 
-### **1.2 Objectives**
+**1.2 Objectives**
 Decentralize Trust: Move away from single-point-of-failure logging architectures.
 
 Immutable Forensics: Ensure that every security alert is timestamped and anchored to a blockchain.
@@ -22,9 +22,9 @@ Immutable Forensics: Ensure that every security alert is timestamped and anchore
 Real-time Intelligence: Provide a high-fidelity dashboard that bridges the gap between raw security data and actionable insights.
 
 -----------------------
-**2\. System Analysis**
+### **2\. System Analysis**
 
-### **2.1 Existing System Challenges**
+**2.1 Existing System Challenges**
 
 *   **Centralized Logging:** Vulnerable to single points of failure and log manipulation by attackers.
     
@@ -33,7 +33,7 @@ Real-time Intelligence: Provide a high-fidelity dashboard that bridges the gap b
 *   **Scalability:** Traditional systems struggle to scale in dynamic cloud-based telehealth environments.
     
 
-### **2.2 Proposed Solution**
+**2.2 Proposed Solution**
 
 The proposed system incorporates host-based intrusion detection (Wazuh), blockchain-based logging (Ethereum/Ganache), and containerization (Docker).
 
@@ -52,7 +52,7 @@ The proposed system incorporates host-based intrusion detection (Wazuh), blockch
 | Forensic Capability  | Weak                     | Strong and reliable                     |
 
 -------------------------------
-**3\. System Design & Modules**
+### **3\. System Design & Modules**
 
 The system is designed as a modular, layered framework:
 
@@ -96,7 +96,7 @@ Access the Application
 
 
 --------------------------------
-**4\. Technical Specifications**
+### **4\. Technical Specifications**
 
 Software Specifications
 
@@ -116,7 +116,7 @@ Hardware Requirements
 | Storage   | 512 GB SSD         |
 
 ---
-**5\. Performance Evaluation**
+### **5\. Performance Evaluation**
 
 
 | Metric                | Value |
@@ -127,7 +127,7 @@ Hardware Requirements
 | Blockchain Latency   | ~1–2 sec |
 
 ---
-**6\. Conclusion**
+### **6\. Conclusion**
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.
 

@@ -133,3 +133,9 @@ Hardware Requirements
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.
 
+---
+## 📌 Ownership Notice
+
+This project is the intellectual property of the authors. The implementation, design, and documentation are original contributions.
+
+Unauthorized copying, reproduction, or plagiarism of this work without proper citation is strictly prohibited and may lead to academic consequences.

@@ -72,15 +72,23 @@ The system is designed as a modular, layered framework:
 **4\. Technical Specifications**
 --------------------------------
 
-| Component              | Technology / Tool Used        |
-|----------------------|------------------------------|
-| 🖥 Operating System   | Windows 11                   |
-| 🔍 Intrusion Detection | Wazuh                        |
-| 🔗 Blockchain         | Ethereum (Ganache)           |
-| 📜 Smart Contracts    | Solidity (Hardhat)           |
-| 🧠 Backend            | Python / Flask               |
-| 🎨 Frontend           | React.js                     |
-| 📦 Deployment         | Docker / Docker Compose      |
+### 💻 Software Specifications
+
+| Component | Specification |
+|----------|--------------|
+| OS       | Windows 11   |
+| IDS      | Wazuh        |
+| Blockchain | Ethereum (Ganache) |
+
+---
+
+### 🖥 Hardware Requirements
+
+| Component | Specification |
+|----------|--------------|
+| Processor | Intel i7 / Ryzen 7 |
+| RAM       | 16 GB minimum      |
+| Storage   | 512 GB SSD         |
 
 
 **5\. Conclusion**

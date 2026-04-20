@@ -42,7 +42,8 @@ The proposed system incorporates host-based intrusion detection (Wazuh), blockch
     
 *   **Real-Time Visualization:** A React-based frontend dashboard for monitoring alerts.
 
-| Criteria              | Existing Methods           | Proposed Method                          |
+
+| Criteria              | Existing Methods           | Proposed Method                        |
 |----------------------|--------------------------|------------------------------------------|
 | Log Storage          | Centralized databases     | Blockchain-based immutable storage       |
 | Tamper Resistance    | Low                      | Very High                                |
@@ -53,6 +54,7 @@ The proposed system incorporates host-based intrusion detection (Wazuh), blockch
 | Forensic Capability  | Weak                     | Strong and reliable                     |
 
 -------------------------------
+
 ### **3\. System Design & Modules**
 
 The system is designed as a modular, layered framework:
@@ -68,6 +70,7 @@ The system is designed as a modular, layered framework:
 5.  **Frontend Visualization:** Displays attack info, severity levels, and blockchain hashes using React.js.
 
 --------------------------------
+
 ### **4\. Technical Specifications**
 
 Software Specifications
@@ -88,6 +91,7 @@ Hardware Requirements
 | Storage   | 512 GB SSD         |
 
 ---
+
 ### **5\. Performance Evaluation**
 
 
@@ -99,6 +103,7 @@ Hardware Requirements
 | Blockchain Latency   | ~1–2 sec |
 
 ---
+
 ### **6\. Conclusion**
 
 The integration of host-based intrusion detection with immutable blockchain logging addresses the critical limitations of conventional security architectures in telehealth. This solution provides reliable audit trails and enhances trust among healthcare providers and patients by ensuring data integrity and forensic readiness.

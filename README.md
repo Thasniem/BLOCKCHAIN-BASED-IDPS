@@ -51,7 +51,7 @@ The proposed system incorporates host-based intrusion detection (Wazuh), blockch
 | Scalability          | Limited                  | High (containerized architecture)        |
 | Deployment           | Complex                  | Simplified using Docker                  |
 | Forensic Capability  | Weak                     | Strong and reliable                     |
-   
+
 
 **3\. System Design & Modules**
 -------------------------------
@@ -72,33 +72,16 @@ The system is designed as a modular, layered framework:
 **4\. Technical Specifications**
 --------------------------------
 
-**Component Specification Operating System**
+| Component              | Technology / Tool Used        |
+|----------------------|------------------------------|
+| 🖥 Operating System   | Windows 11                   |
+| 🔍 Intrusion Detection | Wazuh                        |
+| 🔗 Blockchain         | Ethereum (Ganache)           |
+| 📜 Smart Contracts    | Solidity (Hardhat)           |
+| 🧠 Backend            | Python / Flask               |
+| 🎨 Frontend           | React.js                     |
+| 📦 Deployment         | Docker / Docker Compose      |
 
-Windows 11
-
-**Intrusion Detection**
-
-Wazuh
-
-**Blockchain**
-
-Ethereum (Ganache)
-
-**Smart Contracts**
-
-Solidity (Hardhat)
-
-**Backend**
-
-Python / Flask
-
-**Frontend**
-
-React.js
-
-**Deployment**
-
-Docker / Docker Compose
 
 **5\. Conclusion**
 ------------------

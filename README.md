@@ -141,6 +141,7 @@ Access the Application
 ---
 ## Ownership Notice
 
+
 This project is the intellectual property of the authors. The implementation, design, and documentation are original contributions.
 
 Unauthorized copying, reproduction, or plagiarism of this work without proper citation is strictly prohibited and may lead to academic consequences.

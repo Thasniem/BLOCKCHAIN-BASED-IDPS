@@ -1,5 +1,3 @@
-Establishing user intent: The user wants the content of the uploaded PDF file ("BLOCKCHAIN IDPS FINALISED REPORT.pdf") converted into a Markdown (.md) format.
-
 ### BLOCKCHAIN BASED IDPS FOR SECURING TELEHEALTH IN CLOUD
 ======================================================
 
